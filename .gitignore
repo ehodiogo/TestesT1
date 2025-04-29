@@ -1,0 +1,7 @@
+/202501011400.pcap
+/venv/
+uploads/202501011400.pcap
+teste1/*
+*.pyc
+/output_csv_graficos
+uploads/*
